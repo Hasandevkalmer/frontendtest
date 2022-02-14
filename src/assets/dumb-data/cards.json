@@ -1,0 +1,44 @@
+[
+	{
+		"id":0,
+		"thumbnail": "img-example-1.png",
+		"title": "Paket Medical Check-up Basic",
+		"harga": "Rp416.000",
+		"terpotong": "Rp364.001"
+	},
+	{
+		"id":1,
+		"thumbnail": "img-example-2.png",
+		"title": "Paket Medical Check-up Silver",
+		"harga": "Rp600.000",
+		"terpotong": "Rp573.000"
+	},
+	{
+		"id":2,
+		"thumbnail": "img-example-3.png",
+		"title": "Paket Medical Check-up Gold",
+		"harga": "Rp1.288.000",
+		"terpotong": "Rp1.127.000"
+	},
+	{
+		"id":3,
+		"thumbnail": "img-example-1.png",
+		"title": "Paket Skrining Diabetes Melitus",
+		"harga": "Rp261.625",
+		"terpotong": "Rp249.375"
+	},
+	{
+		"id":4,
+		"thumbnail": "img-example-1.png",
+		"title": "Paket Risiko Penyakit Jantung",
+		"harga": "Rp1.162.000",
+		"terpotong": "Rp1.016.750"
+	},
+	{
+		"id":5,
+		"thumbnail": "img-example-1.png",
+		"title": "Paket TORCH",
+		"harga": "Rp2.480.000",
+		"terpotong": "Rp2.417.000"
+	}
+]
